@@ -1,8 +1,20 @@
-início do projeto! Controle Drone 10km
+# 🛸 Início do Projeto: Controle Drone 10km  
 
-Início: 20/02/2025
-Duração: 6 meses
-Privisão de Entrega: 20/08/2025
+## 📅 Detalhes do Projeto  
 
-Valor investido (R$): 86,89
-Tempo investido (H): 1
+- **Início:** 20/02/2025  
+- **Duração:** 6 meses  
+- **Previsão de Entrega:** 20/08/2025  
+
+## 💰 Investimentos  
+
+- **Valor investido (R$):** 86,89  
+
+
+## ⏰ Registro de Horários
+
+|    Data    | Horas de desenvolvimento [6:53] |
+|------------|---------------------------------|
+| 20/02/2025 | 01:00                           | 
+| 20/02/2025 | 01:43                           |
+| 21/02/2025 | 04:10                           |
