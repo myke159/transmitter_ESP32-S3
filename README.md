@@ -8,7 +8,8 @@
 
 ## 💰 Investimentos  
 
-- **Valor investido (R$):** 86,89  
+- **Valor investido: (R$)**73,10  
+- **Valor restante: (R$)**893,42
 
 
 ## ⏰ Registro de Horários
